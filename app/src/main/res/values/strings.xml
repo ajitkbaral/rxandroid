@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxAndroid</string>
+    <string name="dialog_title">This is the Title of Material Dialog</string>
+    <string name="dialog_content">This is the Content of Material Dialog which can be of any length</string>
+    <string name="dialog_agree">Yes</string>
+    <string name="dialog_disagree">No</string>
+</resources>
